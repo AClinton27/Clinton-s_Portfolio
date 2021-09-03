@@ -2,7 +2,6 @@
 My data science Portfolio
 
 
-#Project 1 # PYTHON-RETAIL-MARKET-PROJECT
-(https://aclinton27.github.io/PYTHON-RETAIL-MARKET-PROJECT/)
+#[Project 1 # PYTHON-RETAIL-MARKET-PROJECT](https://aclinton27.github.io/PYTHON-RETAIL-MARKET-PROJECT/)
 Mr Adamu has a retail market where he sells daily basic food items.
 This is a simple project to help him get started
